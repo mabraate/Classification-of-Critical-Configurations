@@ -1,0 +1,1 @@
+This code is the supplementary material to the paper "A Classification of Critical Configurations for any Number of Projective Views"
